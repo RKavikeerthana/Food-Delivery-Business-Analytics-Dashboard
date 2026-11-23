@@ -1,0 +1,4 @@
+restaurant,total_orders,average_order_value,average_delivery_time,average_rating
+A,3,200.0,31.67,5.0
+B,3,450.0,36.67,4.33
+C,2,325.0,52.5,2.5

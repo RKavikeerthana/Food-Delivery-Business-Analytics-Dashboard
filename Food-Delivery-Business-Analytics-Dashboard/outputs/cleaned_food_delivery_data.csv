@@ -1,0 +1,13 @@
+order_date,order_id,restaurant,order_value,delivery_time,order_status,rating
+2026-01-03,101,A,250,30,Delivered,5.0
+2026-01-05,102,B,400,45,Delivered,4.0
+2026-01-08,103,A,150,25,Cancelled,
+2026-01-12,104,C,300,50,Delivered,3.0
+2026-01-15,105,B,500,35,Delivered,5.0
+2026-02-02,106,A,200,40,Cancelled,
+2026-02-07,107,C,350,55,Delivered,2.0
+2026-02-11,108,B,450,30,Delivered,4.0
+2026-02-16,109,A,320,28,Delivered,4.0
+2026-03-04,110,C,280,42,Delivered,5.0
+2026-03-10,111,B,380,33,Delivered,3.0
+2026-03-18,112,A,220,38,Cancelled,
